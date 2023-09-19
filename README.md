@@ -1,7 +1,8 @@
-![Header](./Github-Banner-Image.png)
-<h3 align="center">Kaggle Expert | Data Science | Machine Learning | Graphic Design </h3>
+![Header](./Github-Banner-Image.jpg)
 
-<h4 align="center">I am a 3rd Year Student at Pandit Deendayal Energy University pursuing B.Tech in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h3 align="center">Full Stack Engineer | Web3  | Solidity | NFT | MERN | PERN | Laravel </h3>
+
+<h4 align="center">I am Kalungi Ibrahim, a full stack Engineer withover 6 years in the software industry as a full stack developer.</h4>
 <br>
 <h1 align="center">Technology Stack 💻  </h1>
 
@@ -16,7 +17,7 @@
 <a target="_blank"><img  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"  alt="sklearn"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"  alt="tensorflow"/></a>
 <a target="_blank"><img  src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"  alt="pandas"/></a>
-<a target="_blank"><img  src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"  alt="pandas"/></a>	
+<a target="_blank"><img  src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"  alt="pandas"/></a>
 
 <h4 align="center"> Graphic Design </h4>
 <p align="center">
@@ -43,9 +44,9 @@
   
 <h1 align="center"> Statistical Data 📊 </h1>
 
-|_**Github Stats**_|_**Top Languages**_|
-|-----------|-------------|
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-77&theme=algolia" width="500" height="250">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-77&theme=algolia&hide=CSS,HTML,PHP&langs_count=3">|
+| _**Github Stats**_                                                                                                 | _**Top Languages**_                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-77&theme=algolia" width="500" height="250"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-77&theme=algolia&hide=CSS,HTML,PHP&langs_count=3"> |
 
 <br>
 <h1 align="center"> Other Badges 🏅 </h1>
