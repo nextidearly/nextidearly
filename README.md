@@ -1,8 +1,8 @@
 ![Header](./Github-Banner-Image.jpg)
 
-<h3 align="center">Full Stack Engineer | Web3  | Solidity | NFT | MERN | PERN | Laravel </h3>
+<h3 align="center">Full Stack & Bitcoin Developer | PSBT | ORD | Runes| Web3  | Solidity | NFT | MERN | PERN | Laravel </h3>
 
-<h4 align="center">I am Kalungi Ibrahim, a full stack Engineer withover 6 years in the software industry as a full stack developer.</h4>
+<h4 align="center">I am Austin Lee, a full stack Engineer withover 6 years in the software industry as a full stack developer.</h4>
 <br>
 <h1 align="center">Technology Stack 💻  </h1>
 
