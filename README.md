@@ -48,8 +48,4 @@
 | _**Github Stats**_                                                                                                 | _**Top Languages**_                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-77&theme=algolia" width="500" height="250"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-77&theme=algolia&hide=CSS,HTML,PHP&langs_count=3"> |
-
-
-<br><br>
-<img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
