@@ -1,5 +1,3 @@
-![Header]
-
 <h3 align="center">Full Stack & Bitcoin Developer | PSBT | ORD | Runes| Web3  | Solidity | NFT | MERN | PERN | Laravel </h3>
 
 <h4 align="center">I am a full-stack Engineer with over 6 years in the software industry.</h4>
