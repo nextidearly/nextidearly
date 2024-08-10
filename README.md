@@ -6,7 +6,6 @@
 <br>
 <h1 align="center">Technology Stack 💻  </h1>
 
-hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -50,21 +49,7 @@ hr>
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-77&theme=algolia" width="500" height="250"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-77&theme=algolia&hide=CSS,HTML,PHP&langs_count=3"> |
 
-<br>
-<h1 align="center"> Other Badges 🏅 </h1>
 
-[![@akhil77's Holopin board](https://holopin.me/akhil77)](https://holopin.io/@akhil77)
-
-<hr>
-
-<h3 align="center"> Connect With Me: </h4>
-<p align="center">
-<a  href="https://www.linkedin.com/in/akhil-jethwa-817101256/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="python"/></a>
-<a  href="https://www.kaggle.com/akhiljethwa"  target="_blank"><img  src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"  alt="python"/></a>
-<a  href="mailto: jethwaakhil@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="python"/></a>
-<a  href="https://www.instagram.com/7_akhil_7/"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="python"/></a>
-
-<br>
 <br><br>
 <img width="120%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
